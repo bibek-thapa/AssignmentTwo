@@ -141,8 +141,6 @@ public class Cipher {
 
 			}
 
-		} else {
-			return c;
 		}
 
 		return hold;
@@ -171,10 +169,7 @@ public class Cipher {
 				}
 
 			}
-		} else {
-
-			return c;
-		}
+		} 
 
 		return hold;
 
